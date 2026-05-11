@@ -1,20 +1,27 @@
-- 👋 Hi, I’m @mohitsharma
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning python, next.js, lenux
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 themohitsha@gmail.com
-- 😄 Pronouns: Hlo
-- ⚡ Fun fact: hahahaahahaaha
+# Mohit Sharma
 
-<!---
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitsha888&show_icons=true)
+Been curious about computers since I was a kid — always wanted to know how they actually work. That curiosity led me to coding.
 
-![GitHub Commit Stats](https://github-readme-stats.vercel.app/api?username=mohitsha888&count_private=true&show_icons=true)
+Based in Chandigarh. I mostly build backend APIs and AI agents with Python. Open to work.
 
-![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mohitsha888)
+---
 
+**Things I've built**
 
+[pdf-qa-api](https://github.com/heyyitsmohit/pdf-qa-api) — Upload a PDF, ask questions about it. Uses RAG so it only answers from what's actually in the document, no hallucinations. FastAPI + LangChain + FAISS + Gemini.
 
-mohitsha888/mohitsha888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Task Manager AI Agent](https://github.com/heyyitsmohit/Task-Manager-AI-Agent) — Talk to it in plain english and it manages your tasks. "create a high priority task for tomorrow" just works. FastAPI + LangChain + Gemini.
+
+[restaurant-ai](https://github.com/heyyitsmohit/restaurant-ai) — Restaurant app with a LangGraph agent that handles ordering end to end. Still in progress.
+
+---
+
+**Stack**
+
+Python · FastAPI · SQLAlchemy · LangChain · LangGraph · Gemini · FAISS · Linux · Git
+
+---
+
+**Connect**
+
+[X](https://x.com/heyyitsmohit) · [LinkedIn](https://www.linkedin.com/in/mohit-sharma-265b00206/) · themohitsha@gmail.com
