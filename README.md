@@ -12,7 +12,7 @@ Based in Chandigarh. I mostly build backend APIs and AI agents with Python. Open
 
 [Task Manager AI Agent](https://github.com/heyyitsmohit/Task-Manager-AI-Agent) — Talk to it in plain english and it manages your tasks. "create a high priority task for tomorrow" just works. FastAPI + LangChain + Gemini.
 
-[restaurant-ai](https://github.com/heyyitsmohit/restaurant-ai) — Restaurant app with a LangGraph agent that handles ordering end to end. Still in progress.
+[restaurant-ai](https://github.com/heyyitsmohit/restaurant-ai) — Restaurant app with a LangGraph agent that handles ordering end to end.
 
 ---
 
